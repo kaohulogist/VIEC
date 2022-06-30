@@ -1,0 +1,2 @@
+import tkniter as tk
+windown= tk.Tk()
